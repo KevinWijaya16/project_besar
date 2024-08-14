@@ -20,6 +20,7 @@ function Navbar() {
         </div>
         <div>
           <button>login</button>
+          <button className="bg-green-400 rounded-lg py-1 px-4">Daftar</button>
         </div>
       </nav>
     </div>
